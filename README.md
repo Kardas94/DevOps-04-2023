@@ -5,3 +5,5 @@ test
 Test 3
 
 Lukas pridal riadok 14:24
+
+Jano sa to snazi rozbehat
